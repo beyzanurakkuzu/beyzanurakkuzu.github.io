@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beyzanurakkuzu.github.io/sitemap.xml
